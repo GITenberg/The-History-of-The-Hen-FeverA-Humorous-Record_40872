@@ -1,0 +1,30 @@
+_repo: The-History-of-The-Hen-FeverA-Humorous-Record_40872
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40872-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Burnham, Geo. P. (George Pickering)
+    aliases:
+    - Burnham, G. P. (George Pickering)
+    - Burnham, George P. (George Pickering)
+    birthdate: 1814
+    deathdate: 1902
+    gutenberg_agent_id: '40866'
+    url: http://www.gutenberg.org/2009/agents/40866
+description: ''
+gutenberg_issued: '2012-09-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40872'
+  lccn: agr07001517
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poultry'
+- !lcc 'SF'
+title: The History of the Hen Fever. A Humorous Record
+url: http://www.gutenberg.org/ebooks/40872
